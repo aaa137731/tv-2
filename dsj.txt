@@ -208,6 +208,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 有线财经,https://api.leonardpark.dev/live/icable/108
+
 地方台,#genre#
 浙江 Ⅰ 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 浙江 Ⅰ 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
@@ -496,7 +497,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 海盐新闻频道,http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 西安音乐综艺,http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 赤峰综合频道,http://vfile.cfrtv.cn/2017/1484/6248/0267/148462480267.ssm/148462480267.m3u8
-哈尔滨新闻,#genre#,http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+哈尔滨新闻,http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 哈尔滨娱乐,http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
 哈尔滨影视,http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
 哈尔滨资讯,http://39.135.135.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
@@ -514,6 +515,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 点掌+财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+
 体育4K频道,#genre#
 抖音4K50P世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
 抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
@@ -572,6 +574,7 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 抖音世界杯随机回放,http://mmmitv.top/test/douyin-x.php?id=rand
 4K测试源,http://159.75.85.63:5680/d/ad/playad.m3u8
+
 港澳台频道,#genre#
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -679,7 +682,7 @@ CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 韩国TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
-日本QVC,#genre#,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 韩国EBS少儿频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 韩国阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -703,7 +706,7 @@ LOVE NATURE 4K,http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE
 泰国lNBT 曼谷频道,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韩国阿里郎WORLD,#genre#,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 韩国lKCTV中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国lEBS 儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 蒙古国lMNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
@@ -720,7 +723,7 @@ American Horrors,http://170.178.189.66:1935/live/Stream1/.m3u8
 Ariana TV,http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 Bahrain Sport,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
-Music Top,#genre#,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 Music Top | HD,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 NEWS 24,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 News 24 Balkan,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
@@ -736,6 +739,7 @@ France 24 Arabic,http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 俄罗斯OR 音乐频道,http://rtmp.one.by:2200/
 乌克兰M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
 西班牙中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
+
 风景直播,#genre#
 中国精编,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
 中央电视塔南,http://gcbsc.v.live.baishancdnx.cn/gc/ztn_1/index.m3u8
@@ -982,6 +986,7 @@ France 24 Arabic,http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 广东-深圳世界之窗,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
 广东-丹霞山丹梯铁锁,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8?contentid=2820180516001
 咪咕视频,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+
 专题直播频道,#genre#
 超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
@@ -1003,7 +1008,7 @@ NewTV怡伴健康HD,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
 NewTV精品大剧HD,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 NewTV家庭剧场HD,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
 NewTV潮妈辣婆HD,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-NewTV明星大片HD,#genre#,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+NewTV明星大片HD,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 NewTV超级综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
 NewTV超级电视剧,http://111.13.42.240/PLTV/88888888/224/3221226979/1.m3u8?blog.ntnas.top
