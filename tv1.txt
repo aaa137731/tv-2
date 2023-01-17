@@ -920,8 +920,3 @@ Bloomberg,http://78.129.218.6/tsstreamer/BloombergLDAI_SD.ts
 Bloomberg,http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
 Bloomberg AU,https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
 
-使用声明,#genre#
-永久免费,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u
-谨防盗版,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u8
-严禁付费,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u8
-公众号:源享家,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u8
