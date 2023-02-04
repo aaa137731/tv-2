@@ -1,13 +1,16 @@
-Smj.Love.C,#genre#$云星日记https://maoyingshi.cc/tvbox/zhibo/1.txt
-Smj.Love.C,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+Smj.Love.C,#genre#$云星日记更新于2022.12.30https://maoyingshi.cc/tvbox/zhibo/1.txt 
+💖Smj.Love.C💖,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+
 
 🇨🇳央视频道,#genre#
+CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV-1,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
 CCTV-1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV-1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV-1,http://m.a1.gs/p/migu.php?id=cctv1
 
+CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV-2,http://218.29.55.44:808/hls/2/index.m3u8
@@ -17,8 +20,8 @@ CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-2,http://cm.wshls.homecdn.com/live/11ecc.m3u8
 CCTV-2,http://183.207.255.207/live/program/live/cctv2/1300000/mnf.m3u8
 
-
-
+CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV-3,http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
 CCTV-3,http://218.29.55.44:808/hls/3/index.m3u8
 CCTV-3,http://183.207.255.207/live/program/live/cctv3hd/4000000/mnf.m3u8
@@ -26,14 +29,14 @@ CCTV-3,http://yfsl.vsd.gehua.net.cn/live/CCTV3HD_1200.m3u8
 CCTV-3,http://lu1.cc/itv/sjtv/p/migu.php?id=cctv3
 CCTV-3,http://hls.ye23.vip/hls/cctv3hd.m3u8
 
-
+CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4,http://39.184.224.99:9080/newlive/live/hls/4/live.m3u8
 CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-4,http://218.29.55.44:808/hls/4/index.m3u8
 CCTV-4,http://hls.ye23.vip/hls/cctv4hd.m3u8
 CCTV-4,http://lu1.cc/itv/sjtv/p/migu.php?id=cctv3
 
-
+CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5,http://39.184.224.99:9080/newlive/live/hls/5/live.m3u8
 CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5,http://218.29.55.44:808/hls/5/index.m3u8
@@ -46,7 +49,7 @@ CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
 CCTV-5,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000004794/1.m3u8?Contentid=1000000001000004794&livemode=1&stbId=3&channel-id=ystenlive
 
 
-
+CCTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV-5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV-5+,http://183.207.255.207/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV-5+,http://m.a1.gs/p/migu.php?id=cctv5p
@@ -60,14 +63,14 @@ CCTV-5+,http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
 CCTV-5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
 
 
-
+CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-6,http://39.184.224.99:9080/newlive/live/hls/6/live.m3u8
 CCTV-6,http://218.29.55.44:808/hls/6/index.m3u8
 CCTV-6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
 CCTV-6,http://183.207.255.207/live/program/live/cctv6hd/4000000/mnf.m3u8
 
 
-
+CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-7,http://39.184.224.99:9080/newlive/live/hls/7/live.m3u8
 CCTV-7,http://218.29.55.44:808/hls/7/index.m3u8
 CCTV-7,http://yfsl.vsd.gehua.net.cn/live/CCTV7HD_1200.m3u8
@@ -76,7 +79,7 @@ CCTV-7,http://hls.ye23.vip/hls/cctv7hd.m3u8
 CCTV-7,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000017218/1.m3u8?Contentid=1000000001000017218&livemode=1&stbId=3&channel-id=ystenlive
 
 
-
+CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8,http://39.184.224.99:9080/newlive/live/hls/8/live.m3u8
 CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV-8,http://218.29.55.44:808/hls/8/index.m3u8
@@ -87,7 +90,7 @@ CCTV-8,http://yfsl.vsd.gehua.net.cn/live/CCTV8_800.m3u8
 CCTV-8,http://hls.ye23.vip/hls/cctv8hd.m3u8
 CCTV-8,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000003736/1.m3u8?Contentid=1000000001000003736&livemode=1&stbId=3&channel-id=ystenlive
 
-
+CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9,http://39.184.224.99:9080/newlive/live/hls/9/live.m3u8
 CCTV-9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV-9,http://218.29.55.44:808/hls/9/index.m3u8
@@ -97,7 +100,7 @@ CCTV-9,http://hls.ye23.vip/hls/cctv9hd.m3u8
 CCTV-9,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive
 
 
-
+CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10,http://39.184.224.99:9080/newlive/live/hls/10/live.m3u8
 CCTV-10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV-10,http://218.29.55.44:808/hls/10/index.m3u8
@@ -111,7 +114,7 @@ CCTV-10,http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
 CCTV-10,http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
 
 
-
+CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV-11,http://39.184.224.99:9080/newlive/live/hls/11/live.m3u8
 CCTV-11,http://218.29.55.44:808/hls/11/index.m3u8
 CCTV-11,http://183.207.255.207/live/program/live/cctv11/1300000/mnf.m3u8
@@ -122,7 +125,7 @@ CCTV-11,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000019789/1.m3u8?C
 
 
 
-
+CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV-12,http://39.184.224.99:9080/newlive/live/hls/12/live.m3u8
 CCTV-12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV-12,http://yfsl.vsd.gehua.net.cn/live/CCTV12HD_1200.m3u8
@@ -134,7 +137,7 @@ CCTV-12,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001640/1.m3u8?C
 
 
 
-
+CCTV-13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV-13,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 CCTV-13,http://218.29.55.44:808/hls/13/index.m3u8
@@ -145,7 +148,7 @@ CCTV-13,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?C
 
 
 
-
+CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-14,http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
 CCTV-14,http://218.29.55.44:808/hls/14/index.m3u8
 CCTV-14,http://yfsl.vsd.gehua.net.cn/live/CCTV14HD_1200.m3u8
@@ -155,7 +158,7 @@ CCTV-14,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000008170/1.m3u8?C
 
 
 
-
+CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV-15,http://218.29.55.44:808/hls/24/index.m3u8
 CCTV-15,http://m.a1.gs/p/migu.php?id=cctv15
@@ -167,7 +170,7 @@ CCTV-15,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000008163/1.m3u8?C
 
 
 
-
+CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV-16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
@@ -178,13 +181,17 @@ CCTV-16,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?C
 
 
 
-
+CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV-17,http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
 CCTV-17,http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
 CCTV-17,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204202.m3u8
 CCTV-17,http://hls.ye23.vip/hls/cctv17hd.m3u8
 CCTV-17,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?Contentid=1000000005000056836&livemode=1&stbId=3&channel-id=ystenlive
 
+CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
 🇨🇳卫视频道,#genre#
 
