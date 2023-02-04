@@ -1,4 +1,5 @@
 Smj.Love.C,#genre#$云星日记https://maoyingshi.cc/tvbox/zhibo/1.txt
+Smj.Love.C,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 
 🇨🇳央视频道,#genre#
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
